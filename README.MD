@@ -1,6 +1,6 @@
-# Rename PDF file
+# Clean excel
 
-a little script to create an copy of pdf file and rename with custom name
+a little script to clear excel data an insert in postgres
 
 ## Install node
 
